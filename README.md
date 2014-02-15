@@ -21,7 +21,7 @@ This theme adds:
 ```
  ```language-javascript
   //script goes here
- ```
+ 
 ```
 
 This version of slimer includes highlighting for markup, css and javascript.
