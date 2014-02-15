@@ -8,6 +8,24 @@ This theme adds:
 - Syntax highlighting to code blocks using prism.js
 - Comments on posts via disqus
 
+## How to use
+
+#### Comments
+
+- Update post.hbs file with your disqus username
+
+#### SYntax Highlighting
+
+- When creating a code block:
+
+```
+ ```language-javascript
+  //script goes here
+ ```
+```
+
+This version of slimer includes highlighting for markup, css and javascript.
+
 ## Copyright & License
 
 Copyright (C) 2014 Ghost Foundation - Released under the MIT License.
