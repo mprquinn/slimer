@@ -14,7 +14,7 @@ This theme adds:
 
 - Update post.hbs file with your disqus username
 
-#### SYntax Highlighting
+#### Syntax Highlighting
 
 - When creating a code block:
 
