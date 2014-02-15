@@ -1,6 +1,12 @@
-# Casper
+# slimer
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+A modified version of the default theme for [Ghost](http://github.com/tryghost/ghost/).
+
+## Modifications
+
+This theme adds:
+- Syntax highlighting to code blocks using prism.js
+- Comments on posts via disqus
 
 ## Copyright & License
 
